@@ -56,7 +56,7 @@
     <!-- Include all JAR files that will be included in lib -->
     <fileset dir=".">
       <include name="lib/*.jar"/>
-	  <include name="lib/droid/*.jar"/>
+	  <include name="lib/droid6/*.jar"/>
       <include name="lib/jhove/*.jar"/>
       <include name="lib/nzmetool/*.jar"/>
     </fileset>

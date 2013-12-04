@@ -19,7 +19,7 @@ for i in "$JCPATH"/*.jar; do
 	APPCLASSPATH="$APPCLASSPATH":"$i"
 done
 
-JCPATH=${FITS_HOME}/lib/droid
+JCPATH=${FITS_HOME}/lib/droid6
 # Add on extra jar files to APPCLASSPATH
 for i in "$JCPATH"/*.jar; do
 	APPCLASSPATH="$APPCLASSPATH":"$i"
